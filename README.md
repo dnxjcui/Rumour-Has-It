@@ -20,6 +20,7 @@ I swear I will come back and document this part better, but I have an algo exam 
 - [x] OpenAI model options
 - [ ] Store our data in a better representation
 - [ ] GUI (probably gradio or streamlit)
-- [ ] Automatic simulation of degrees separation
+- [ ] Automatic simulation of degrees separation: **We can do this through Watts-Strogatz model of small world models.**
 - [ ] Graph visualization and construction
 - [ ] Social media feature
+- [ ] If we upscale by several magnitudes, make sure we only simulate agents who are in the know. 
